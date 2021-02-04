@@ -1,0 +1,16 @@
+C:\Users\Trace\.leetcode\Play\Play\Play\bin\Debug\net5.0\Play.exe
+C:\Users\Trace\.leetcode\Play\Play\Play\bin\Debug\net5.0\Play.deps.json
+C:\Users\Trace\.leetcode\Play\Play\Play\bin\Debug\net5.0\Play.runtimeconfig.json
+C:\Users\Trace\.leetcode\Play\Play\Play\bin\Debug\net5.0\Play.runtimeconfig.dev.json
+C:\Users\Trace\.leetcode\Play\Play\Play\bin\Debug\net5.0\Play.dll
+C:\Users\Trace\.leetcode\Play\Play\Play\bin\Debug\net5.0\ref\Play.dll
+C:\Users\Trace\.leetcode\Play\Play\Play\bin\Debug\net5.0\Play.pdb
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.csprojAssemblyReference.cache
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.AssemblyInfoInputs.cache
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.AssemblyInfo.cs
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.csproj.CoreCompileInputs.cache
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.dll
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\ref\Play.dll
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.pdb
+C:\Users\Trace\.leetcode\Play\Play\Play\obj\Debug\net5.0\Play.genruntimeconfig.cache
