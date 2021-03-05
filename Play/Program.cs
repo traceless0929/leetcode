@@ -6,19 +6,22 @@ namespace Play
 {
     class Program
     {
-        public class ListNode {
+        public class ListNode
+        {
             public int val;
             public ListNode next;
-            public ListNode(int val=0, ListNode next=null) {
+            public ListNode(int val = 0, ListNode next = null)
+            {
                 this.val = val;
                 this.next = next;
-            }}
+            }
+        }
 
         static void Main(string[] args)
         {
-           Console.WriteLine(new Program().MaxArea(new int[] {0,1,0,2,1,0,1,3,2,1,2,1}));
 
         }
+
 
         public ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
@@ -41,7 +44,7 @@ namespace Play
                 l2.next = MergeTwoLists(l2.next, l1);
                 return l2;
             }
-            
+
         }
         public ListNode ReverseList(ListNode head)
         {
@@ -66,7 +69,7 @@ namespace Play
             //
             // return guardHead;
         }
-        
+
         public int MaxArea(int[] height)
         {
             if (height == null || height.Length <= 0) return 0;
@@ -80,7 +83,8 @@ namespace Play
             int rightMax = 0;
             int ans = 0;
             //左右指针没有碰面
-            while (left < right){
+            while (left < right)
+            {
                 //获取左边最高
                 leftMax = Math.Max(leftMax, height[left]);
                 //获取右边最高
@@ -89,7 +93,7 @@ namespace Play
                 ans += leftMax <= rightMax ? leftMax - height[left++] : rightMax - height[right--];
             }
             return ans;
-            
+
         }
     }
 }
